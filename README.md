@@ -1,5 +1,5 @@
 # 🚀 AI-Powered Assistant
-
+Download: (https://github.com/cicciohtml/Gemini-Desktop/releases/tag/gemini)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.14-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Status-Stable-green.svg" alt="Status">
@@ -22,7 +22,7 @@ If you intend to contribute or run the source code directly, ensure you have the
 ## 🚀 Installation & Usage
 
 ### For End Users
-1. Navigate to the **[Releases](https://github.com/tuo-utente/tuo-repo/releases)** page.
+1. Navigate to the **[Releases](https://github.com/cicciohtml/Gemini-Desktop/releases/tag/gemini)** page.
 2. Download the latest `gemini.exe` binary.
 3. Simply execute the file.
 
