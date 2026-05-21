@@ -23,7 +23,7 @@ If you intend to contribute or run the source code directly, ensure you have the
 
 ### For End Users
 1. Navigate to the **[Releases](https://github.com/tuo-utente/tuo-repo/releases)** page.
-2. Download the latest `ai.exe` binary.
+2. Download the latest `gemini.exe` binary.
 3. Simply execute the file.
 
 ### For Developers
