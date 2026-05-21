@@ -7,7 +7,9 @@ Download: (https://github.com/cicciohtml/Gemini-Desktop/releases/tag/gemini)
 
 ## 📖 Overview
 **AI-Powered Assistant** is a high-performance automation utility designed to bridge the gap between complex AI logic and user-friendly execution. Built with Python, this tool aims to simplify [inserisci qui la funzione specifica, es: automated report generation / data analysis] by providing a streamlined interface and robust backend processing.
-
+<p align="center">
+  <img src="Screenshot 2026-05-21 215255.png" width="600">
+</p>
 ## ✨ Key Features
 *   **Standalone Execution:** No Python interpreter or complex environment setup required. Just double-click the `.exe`.
 *   **Performance-First:** Optimized core architecture to ensure lightning-fast processing times.
