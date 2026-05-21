@@ -16,6 +16,10 @@ Download: (https://github.com/cicciohtml/Gemini-Desktop/releases/tag/gemini)
 *   **Modular Design:** Built with maintainability in mind, allowing for easy updates and integration of new AI modules.
 *   **Lightweight:** Minimal memory footprint despite the powerful processing capabilities.
 
+<p align="center">
+  <img src="Screenshot 2026-05-21 215321.png" width="600">
+</p>
+
 ## 🛠 Prerequisites (For Developers)
 If you intend to contribute or run the source code directly, ensure you have the following installed:
 - [Python 3.14+](https://www.python.org/)
